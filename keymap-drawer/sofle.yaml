@@ -63,8 +63,8 @@ layers:
   - $$mdi:keyboard-space$$
   - '2'
   - {t: '$$mdi:keyboard-return$$', type: enter}
-  - {t: layer_macos, h: toggle}
-  - {t: layer_win, h: toggle}
+  - {t: /, s: '?'}
+  - {t: '`', s: '~'}
   layer1:
   - {t: '`', s: '~'}
   - F1
